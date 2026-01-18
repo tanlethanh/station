@@ -7,10 +7,10 @@ Common scripts, resources
 Run the audit (display only):
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/tanlethanh/station/main/scripts/mac_audit.sh | bash
+curl -fsSL https://station.tanlethanh.me/scripts/mac_audit.sh | bash
 ```
 
-Or clone and run locally:
+Clone and run locally:
 
 ```bash
 git clone https://github.com/tanlethanh/station.git

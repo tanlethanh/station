@@ -1,0 +1,15 @@
+{
+  "name": "station",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "sst dev",
+    "deploy": "sst deploy --stage production"
+  },
+  "devDependencies": {
+    "sst": "^3.17.25",
+    "@types/bun": "latest",
+    "typescript": "^5.9.3"
+  }
+}
