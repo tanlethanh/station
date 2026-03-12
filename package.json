@@ -11,5 +11,8 @@
     "sst": "^3.17.25",
     "@types/bun": "latest",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "nat-upnp": "^1.1.1"
   }
 }
